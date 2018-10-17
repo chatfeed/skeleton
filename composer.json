@@ -1,0 +1,27 @@
+{
+  "name": "chatfeed/skeleton",
+  "description": "mini project skeleton ",
+  "keywords": ["skeleton"],
+  "type": "framwork",
+  "license": "BSD-3-Clause",
+  "support": {
+    "issues": "https://github.com/chatfeed/skeleton/issues",
+    "source": "https://github.com/chatfeed/skeleton"
+  },
+  "authors": [
+    {
+      "name": "chatfeed",
+      "email": "chatfeed@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "skeleton\\": ""
+    }
+  },
+  "extra": {
+  }
+}
