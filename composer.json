@@ -20,5 +20,11 @@
     }
   },
   "extra": {
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  ]
 }
